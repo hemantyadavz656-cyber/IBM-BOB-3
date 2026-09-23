@@ -1,0 +1,30 @@
+student_id,student_name,class,parent_id,parent_name,marks_subject,marks,day,subject,time,assignment_subject,date,task
+1,Aarav Sharma,5,1.0,Rajesh Sharma,Math,85,Monday,Math,09:00,Math,2026-09-15,Complete exercise 5
+1,Aarav Sharma,5,1.0,Rajesh Sharma,Math,85,Monday,Math,09:00,English,2026-09-16,Write essay
+1,Aarav Sharma,5,1.0,Rajesh Sharma,Math,85,Monday,English,10:00,Math,2026-09-15,Complete exercise 5
+1,Aarav Sharma,5,1.0,Rajesh Sharma,Math,85,Monday,English,10:00,English,2026-09-16,Write essay
+1,Aarav Sharma,5,1.0,Rajesh Sharma,Math,85,Tuesday,Science,09:00,Math,2026-09-15,Complete exercise 5
+1,Aarav Sharma,5,1.0,Rajesh Sharma,Math,85,Tuesday,Science,09:00,English,2026-09-16,Write essay
+1,Aarav Sharma,5,1.0,Rajesh Sharma,English,78,Monday,Math,09:00,Math,2026-09-15,Complete exercise 5
+1,Aarav Sharma,5,1.0,Rajesh Sharma,English,78,Monday,Math,09:00,English,2026-09-16,Write essay
+1,Aarav Sharma,5,1.0,Rajesh Sharma,English,78,Monday,English,10:00,Math,2026-09-15,Complete exercise 5
+1,Aarav Sharma,5,1.0,Rajesh Sharma,English,78,Monday,English,10:00,English,2026-09-16,Write essay
+1,Aarav Sharma,5,1.0,Rajesh Sharma,English,78,Tuesday,Science,09:00,Math,2026-09-15,Complete exercise 5
+1,Aarav Sharma,5,1.0,Rajesh Sharma,English,78,Tuesday,Science,09:00,English,2026-09-16,Write essay
+2,Diya Verma,5,2.0,Sneha Verma,Math,90,Monday,Math,09:00,Math,2026-09-15,Complete exercise 5
+2,Diya Verma,5,2.0,Sneha Verma,Math,90,Monday,Math,09:00,English,2026-09-16,Write essay
+2,Diya Verma,5,2.0,Sneha Verma,Math,90,Monday,English,10:00,Math,2026-09-15,Complete exercise 5
+2,Diya Verma,5,2.0,Sneha Verma,Math,90,Monday,English,10:00,English,2026-09-16,Write essay
+2,Diya Verma,5,2.0,Sneha Verma,Math,90,Tuesday,Science,09:00,Math,2026-09-15,Complete exercise 5
+2,Diya Verma,5,2.0,Sneha Verma,Math,90,Tuesday,Science,09:00,English,2026-09-16,Write essay
+2,Diya Verma,5,2.0,Sneha Verma,English,88,Monday,Math,09:00,Math,2026-09-15,Complete exercise 5
+2,Diya Verma,5,2.0,Sneha Verma,English,88,Monday,Math,09:00,English,2026-09-16,Write essay
+2,Diya Verma,5,2.0,Sneha Verma,English,88,Monday,English,10:00,Math,2026-09-15,Complete exercise 5
+2,Diya Verma,5,2.0,Sneha Verma,English,88,Monday,English,10:00,English,2026-09-16,Write essay
+2,Diya Verma,5,2.0,Sneha Verma,English,88,Tuesday,Science,09:00,Math,2026-09-15,Complete exercise 5
+2,Diya Verma,5,2.0,Sneha Verma,English,88,Tuesday,Science,09:00,English,2026-09-16,Write essay
+3,Rohan Singh,6,3.0,Amit Singh,Science,76,Monday,Math,09:00,Science,2026-09-15,Learn chapter 3
+3,Rohan Singh,6,3.0,Amit Singh,Science,76,Tuesday,English,10:00,Science,2026-09-15,Learn chapter 3
+4,Ananya Gupta,7,4.0,Pooja Gupta,Math,92,Monday,Science,09:00,Math,2026-09-16,Solve worksheet
+5,Kabir Khan,8,4.0,Pooja Gupta,English,81,Tuesday,Math,11:00,English,2026-09-17,Read story
+6,Meera Joshi,9,,,Physics,87,Wednesday,Physics,10:00,Physics,2026-09-18,Numerical problems
